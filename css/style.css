@@ -23,6 +23,7 @@ body{
     font-size:22px;
     color: white;
     margin-left: 24px;
+    font-weight: 600;
 }
 .heading:hover{
     color:hsl(178, 100%, 50%);
@@ -35,6 +36,7 @@ body{
     font-family: 'Outfit', sans-serif;
     font-weight: 300;
     font-size: 18px;
+    font-weight: 300;
 
 }
 .eth-container{
@@ -55,6 +57,7 @@ body{
     margin-left: 6px;
     color:#00FFF8;
     font-size: 16px;
+    font-weight:600;
 }
 .clock-img{
     vertical-align: middle;
@@ -64,6 +67,7 @@ body{
     font-weight: 400px;
     vertical-align: middle;
     color: #8BACD9;
+    font-weight:400;
 }
 .inline-block{
     display: inline-block;
@@ -85,11 +89,13 @@ body{
     display: inline-block;
     vertical-align: middle;
     color:#8BACD9;
+    font-weight:400;
 }
 .avatar-paragraph-second{
     display: inline-block;
     vertical-align: middle;
     color:white;
+    font-weight:400;
 }
 .avatar-box{
     
