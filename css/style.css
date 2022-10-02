@@ -1,0 +1,100 @@
+body{
+    background-color: #0D192C;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 350px;
+    height: 596px;
+    background-color:#15263F ;
+    
+
+}
+.equilibrium-image{
+    width: 302px;
+    height: 302px;
+    margin: 24px;
+}
+.heading {
+    font-family: 'Outfit', sans-serif;
+    font-size:22px;
+    color: white;
+    margin-left: 24px;
+}
+.equil-paragraph{
+    color:#8BACD9;
+    margin: 16px 24px 0 24px;
+    width: 302px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+
+}
+/* .eth-box{
+    display: inline-block;
+}
+.clock-box{
+    display: inline-block;
+} */
+.eth-container{
+    display: flex;
+    width: 302px;
+    height: 20px;
+    justify-content: space-between;
+    margin: 24px;
+   
+    
+}
+.eth-img{
+    vertical-align: middle;
+}
+.eth-paragraph{
+    font-family: 'Outfit', sans-serif;
+    vertical-align: middle;
+    margin-left: 6px;
+    color:#00FFF8;
+    font-size: 16px;
+}
+.clock-img{
+    vertical-align: middle;
+}
+.clock-paragraph{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400px;
+    vertical-align: middle;
+    color: #8BACD9;
+}
+.inline-block{
+    display: inline-block;
+}
+.divider{
+    width: 302px;
+    height: 1px;
+    background-color: #2E405A;
+    margin-left: 24px;
+}
+.avatar-img{
+    width: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 16px;
+    
+}
+.avatar-paragraph-one{
+    display: inline-block;
+    vertical-align: middle;
+    color:#8BACD9;
+}
+.avatar-paragraph-second{
+    display: inline-block;
+    vertical-align: middle;
+    color:white;
+}
+.avatar-box{
+    
+    width: 302px;
+    height: 30px;
+    margin:16px 24px;
+} 
