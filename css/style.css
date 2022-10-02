@@ -24,6 +24,10 @@ body{
     color: white;
     margin-left: 24px;
 }
+.heading:hover{
+    color:hsl(178, 100%, 50%);
+    cursor:pointer;
+}
 .equil-paragraph{
     color:#8BACD9;
     margin: 16px 24px 0 24px;
@@ -33,12 +37,6 @@ body{
     font-size: 18px;
 
 }
-/* .eth-box{
-    display: inline-block;
-}
-.clock-box{
-    display: inline-block;
-} */
 .eth-container{
     display: flex;
     width: 302px;
